@@ -23,12 +23,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GameOverScene.unity
     guid: b63b9152bb5148b4ab9f9ad76d330484
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ClearScene.unity
     guid: 80c9c54b84c5b75438a9a3c69175f5a7
   - enabled: 1
     path: Assets/Scenes/GameClearScene.unity
     guid: 62058dcc9a1eeb940be6f45f30a8c1b4
+  - enabled: 1
+    path: Assets/Scenes/QuizReview.unity
+    guid: ba03a544c0f8c5545b0653bf8647c3f4
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
